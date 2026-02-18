@@ -1,5 +1,5 @@
 
-| Linguagem |Definicão| Exemplo |
+| Linguagem |Definição| Exemplo |
 | :--- | :---: | ---: |
 |  Compiladas | Controle | Básico |
 | Interpretadas | Escrita | Fácil |
