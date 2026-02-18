@@ -1,7 +1,7 @@
 
-| Ferramenta | Uso | Nível |
+| Linguagem | Definição | Exemplo |
 | :--- | :---: | ---: |
-| Git | Controle | Básico |
-| Markdown | Escrita | Fácil |
-| GitHub | Repo | Avançado |
+|  Compiladas | Controle | Básico |
+| Interpretadas | Escrita | Fácil |
+| Híbridas | Repo | Avançado |
 
